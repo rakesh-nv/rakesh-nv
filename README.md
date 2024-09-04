@@ -1,8 +1,8 @@
-[![MasterHead](https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rakesh nv</h1>
 <h3 align="center">A passion developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
+<img align="right" alt="Coding" width="300" hight="300" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh-nv&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh-nv" /> </p>
 
