@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rakesh nv</h1>
-<h3 align="center">A passion developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <img align="right" alt="Coding" width="300" hight="300" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
